@@ -55,3 +55,6 @@ Pousser le dépôt sur GitHub, puis activer Pages dans `Settings > Pages`, sourc
 
 ## Sources exploitées et limites
 Les informations visibles dans les annexes fournies dans la conversation ont été exploitées : questionnaire stratégique, positionnement, publics, freins, ateliers, produits, créateurs locaux, coin café et univers graphique. Aucun fichier annexe local supplémentaire n’était présent dans le dépôt au moment de l’implémentation.
+
+## Photos de placeholders
+À la demande de remplacement des faux visuels, les placeholders utilisent désormais de vraies photos externes issues de Pexels, chargées via `images.pexels.com` et choisies selon les thématiques : aquarelle, atelier créatif, boutique beaux-arts, cadeau, artisanat et coin café. Pour une mise en production WordPress, il faudra télécharger, compresser, renommer et héberger ces images dans la médiathèque du site afin de ne plus dépendre de ressources externes.
